@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Maxi Gottig</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Maxi Gottig</h1>
+
+## Contribution Snake 
+
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 I’m currently working on **freelancer projects**
 
 - 🌱 I’m currently learning **Web Development Front-End Languajes and Tools**
